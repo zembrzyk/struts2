@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/strutsathon/struts2.png?branch=trunk)](https://travis-ci.org/strutsathon/struts2)
